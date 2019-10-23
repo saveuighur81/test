@@ -1,11 +1,7 @@
 {
    "firstName": "John",
    "lastName": "Smith",
-   "addressLine": [
-      "100 main st.",
-      "Suite 100",
-      ""
-   ],
+   "addressLine": "100 main st",
    "city": "RTP",
    "state": "North Carolina",
    "country": "United States",
