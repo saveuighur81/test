@@ -2,9 +2,7 @@
 <root>
    <firstName>John</firstName>
    <lastName>Smith</lastName>
-   <addressLine>100 main st.</addressLine>
-   <addressLine>Suite 100</addressLine>
-   <addressLine />
+   <addressLine>100 main st</addressLine>
    <city>RTP</city>
    <state>North Carolina</state>
    <country>United States</country>
