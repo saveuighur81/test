@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <firstName>John</firstName>
+   <lastName>Smith</lastName>
+   <addressLine>100 main st.</addressLine>
+   <addressLine>Suite 100</addressLine>
+   <addressLine />
+   <city>RTP</city>
+   <state>North Carolina</state>
+   <country>United States</country>
+   <zipCode>27560</zipCode>
+   <phone>919-111-1111</phone>
+   <email>u1@m.com</email>
+</root>
